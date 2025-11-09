@@ -10,6 +10,8 @@
 
 6- Ao rodar o projeto encontrei um problema O arquivo @/styles/globals.css não existe ou o caminho está incorreto. Para resolver bastou entrar em jsconfig.json e mudar a linha 4.
 
+7- Criada a pasta components e alterado os arquivos para jsx
+
 
 
 
