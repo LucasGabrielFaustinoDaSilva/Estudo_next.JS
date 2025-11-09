@@ -14,6 +14,7 @@
 
 8- Apaguei e criei um novo index.jsx deu erro pq esqueci de colocar a palavra export defautlt
 
+9- Podemos adicionar elementos html no jsx, para isso precisamos digitar normalmente
 
 
 
