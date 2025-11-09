@@ -1,1 +1,1 @@
-Parei na aula primeiro componentes e rotas
+Parei na aula css modularizado
