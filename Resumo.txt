@@ -1,0 +1,15 @@
+1-Criei a pasta aulao_nexjs
+
+2- Entrei na pasta criada
+
+3- criei o projeto nexjs com o comando npx create-next-app fundamentos
+
+4- Optei por usar javascript
+
+5- Criei a pasta src e coloquei nela as pastas pages e styles
+
+6- Ao rodar o projeto encontrei um problema O arquivo @/styles/globals.css não existe ou o caminho está incorreto. Para resolver bastou entrar em jsconfig.json e mudar a linha 4.
+
+
+
+
