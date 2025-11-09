@@ -12,6 +12,8 @@
 
 7- Criada a pasta components e alterado os arquivos para jsx
 
+8- Apaguei e criei um novo index.jsx deu erro pq esqueci de colocar a palavra export defautlt
+
 
 
 
