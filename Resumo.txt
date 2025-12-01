@@ -16,5 +16,7 @@
 
 9- Podemos adicionar elementos html no jsx, para isso precisamos digitar normalmente
 
+10- Css modularizado deve ser referenciado, nao podemos usar itens como h1 pois da erro podemos usar com classe ou id
+
 
 
