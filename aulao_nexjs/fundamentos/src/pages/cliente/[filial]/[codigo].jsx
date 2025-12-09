@@ -2,10 +2,12 @@ import Layout from "@/components/Layout";
 import {useRouter} from "next/router"
 
 export default function ClienteProCodigo(){
-  console.log(router)
+  const router = useRouter()
+  
   return (
     <Layout titulo="Navegação Dinâmica">
-      <span>Código = ????</span>
+      <div>Código = {router.query.codigo}</div>
+      <div>Filial = {router.query.filial}</div>
     </Layout>
   )
 }
